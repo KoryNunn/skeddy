@@ -1,7 +1,7 @@
 {
   "name": "skeddy",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple async task scheduler with catch-up for long running tasks",
   "main": "index.js",
   "scripts": {
     "test": "node test"
@@ -12,5 +12,17 @@
   "devDependencies": {
     "tape": "^5.0.1",
     "tape-catch": "^1.0.6"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/skeddy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/skeddy/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/skeddy#readme"
 }
