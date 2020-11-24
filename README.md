@@ -1,4 +1,6 @@
 # skeddy
+![Node.js Test Runner](https://github.com/korynunn/skeddy/workflows/Node.js%20Test%20Runner/badge.svg)
+
 
 Simple async task scheduler with catch-up for long running tasks
 
