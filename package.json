@@ -1,0 +1,16 @@
+{
+  "name": "skeddy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^5.0.1",
+    "tape-catch": "^1.0.6"
+  }
+}
