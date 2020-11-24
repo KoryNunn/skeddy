@@ -1,6 +1,6 @@
 {
   "name": "skeddy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple async task scheduler with catch-up for long running tasks",
   "main": "index.js",
   "scripts": {
